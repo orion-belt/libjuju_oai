@@ -2,7 +2,7 @@
 
 Simple program to deploy LTE EPC (OAI) with python libjuju library in lxc local cloud with the help of Juju NFVO.
 
-Prerequisite
+Prerequisite-<br/>
 Setup of Juju cloud 
 
 1. Clone libjuju library
